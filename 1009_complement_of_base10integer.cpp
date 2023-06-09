@@ -8,7 +8,8 @@ int main()
     m = n; 
     if(n == 0)
     {
-        return 1;
+       cout<<1;
+       return 0;
     }
     while(m!=0)
     {
